@@ -2,7 +2,7 @@
 
 All issues with your guest apps must go here. **PLEASE SEARCH IF THERE IS ALREADY AN ISSUE FOR YOUR APP AND POST THERE.**
 
-**Do not post here MahoLator-in-general issues, not about compability with apps.**
+**Do not post here MahoLator-in-general issues, post only about compability with apps.**
 
 Langs: rus/eng, if your native language is russian, please use it. To read mixed-lang discussions use https://chromewebstore.google.com/search/translate or something like that, sorry.
 
