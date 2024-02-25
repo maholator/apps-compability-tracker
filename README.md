@@ -6,4 +6,4 @@ Langs: rus/eng, if your native language is russian, please use it. To read mixed
 
 If app works, feel free to post screenshots.
 
-If apps does not work, post **at least** your ML version, linker errors and screenshots of crash/etc. Logs at your `%APPDATA%`/`~/.local/share/` may help, bring them if possible.
+If app does not work, post **at least** link to your app (site with games, google drive, etc.), your ML version, linker errors and screenshots of crash/etc. Logs at your `%APPDATA%`/`~/.local/share/` may help, bring them if possible.
