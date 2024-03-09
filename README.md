@@ -8,4 +8,15 @@ Langs: rus/eng, if your native language is russian, please use it. To read mixed
 
 If app works, feel free to post screenshots.
 
-If app does not work, post **at least** link to your app (site with games, google drive, etc.), your ML version, linker errors and screenshots of crash/etc. Logs at your `%APPDATA%`/`~/.local/share/` may help, bring them if possible.
+If app does not work, post **at least** link to your app (site with games, google drive, etc.), your ML version, linker errors and screenshots of crash/bug/etc. Logs at your `%APPDATA%`/`~/.local/share/` may help, bring them if possible.
+
+## Issue labels
+
+- `state:` labels reflect how well the app is supported.
+- `cause:` says where the issue must be looked for.
+- `ver:` is last ML version when the app was checked.
+- `supports-size-sync` means that the app works with `Sync size with size of emulator window` option enabled.
+
+## Milestones usage
+
+Milestones are used to sort developers/vendors.
